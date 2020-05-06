@@ -1,0 +1,30 @@
+{
+  "id": "1776083",
+  "name": "商店管理",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7905710",
+      "name": "信封",
+      "font_class": "xinfeng",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "12780008",
+      "name": "购物车",
+      "font_class": "cart-icon",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6171935",
+      "name": "GitHub",
+      "font_class": "GitHub",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    }
+  ]
+}
